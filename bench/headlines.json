@@ -1,0 +1,359 @@
+[
+ {
+  "id": "h001",
+  "event": "binance-brazil",
+  "source": "Mint Monitor",
+  "publishedAt": "2026-11-03T08:00:00.000Z",
+  "title": "Binance secures payment institution licence from Brazil central bank"
+ },
+ {
+  "id": "h002",
+  "event": "binance-brazil",
+  "source": "Market Pulse",
+  "publishedAt": "2026-11-03T08:47:00.000Z",
+  "title": "Brazil central bank grants Binance a payment institution license"
+ },
+ {
+  "id": "h003",
+  "event": "binance-brazil",
+  "source": "Hash Herald",
+  "publishedAt": "2026-11-03T09:34:00.000Z",
+  "title": "Binance wins Brazil payments license after two-year wait"
+ },
+ {
+  "id": "h004",
+  "event": "binance-delist",
+  "source": "Token Tribune",
+  "publishedAt": "2026-11-03T10:00:00.000Z",
+  "title": "Binance to delist ORBX, KLTN and WAVR on November 14"
+ },
+ {
+  "id": "h005",
+  "event": "binance-delist",
+  "source": "Node Gazette",
+  "publishedAt": "2026-11-03T10:47:00.000Z",
+  "title": "Binance will remove ORBX, KLTN and WAVR from spot trading"
+ },
+ {
+  "id": "h006",
+  "event": "binance-delist",
+  "source": "Satoshi Street",
+  "publishedAt": "2026-11-03T11:34:00.000Z",
+  "title": "ORBX and WAVR slide after Binance delisting notice"
+ },
+ {
+  "id": "h007",
+  "event": "strategy-buy-1",
+  "source": "Chain Bulletin",
+  "publishedAt": "2026-11-03T13:00:00.000Z",
+  "title": "Strategy buys 1,036 BTC for $110 million"
+ },
+ {
+  "id": "h008",
+  "event": "strategy-buy-1",
+  "source": "Block Ledger",
+  "publishedAt": "2026-11-03T13:47:00.000Z",
+  "title": "Strategy adds 1,036 bitcoin to its holdings"
+ },
+ {
+  "id": "h009",
+  "event": "strategy-buy-1",
+  "source": "Mint Monitor",
+  "publishedAt": "2026-11-03T14:34:00.000Z",
+  "title": "Saylor firm Strategy acquires another 1036 BTC for $110M"
+ },
+ {
+  "id": "h010",
+  "event": "strategy-buy-2",
+  "source": "Market Pulse",
+  "publishedAt": "2026-11-10T13:00:00.000Z",
+  "title": "Strategy buys 2,140 BTC for $231 million"
+ },
+ {
+  "id": "h011",
+  "event": "strategy-buy-2",
+  "source": "Hash Herald",
+  "publishedAt": "2026-11-10T13:47:00.000Z",
+  "title": "Strategy adds 2,140 bitcoin in latest weekly purchase"
+ },
+ {
+  "id": "h012",
+  "event": "zentra-hack",
+  "source": "Token Tribune",
+  "publishedAt": "2026-11-04T02:00:00.000Z",
+  "title": "Zentra Finance drained of $170M in lending pool exploit"
+ },
+ {
+  "id": "h013",
+  "event": "zentra-hack",
+  "source": "Node Gazette",
+  "publishedAt": "2026-11-04T02:47:00.000Z",
+  "title": "DeFi lender Zentra Finance loses $170 million to attacker"
+ },
+ {
+  "id": "h014",
+  "event": "zentra-hack",
+  "source": "Satoshi Street",
+  "publishedAt": "2026-11-04T03:34:00.000Z",
+  "title": "Zentra Finance hacked as $170 million leaves lending pools"
+ },
+ {
+  "id": "h015",
+  "event": "zentra-hack",
+  "source": "Chain Bulletin",
+  "publishedAt": "2026-11-04T04:21:00.000Z",
+  "title": "Zentra Finance pauses contracts after $170M exploit"
+ },
+ {
+  "id": "h016",
+  "event": "kelvin-hack",
+  "source": "Block Ledger",
+  "publishedAt": "2026-11-04T05:00:00.000Z",
+  "title": "Kelvin Bridge exploited for $17M in cross-chain attack"
+ },
+ {
+  "id": "h017",
+  "event": "kelvin-hack",
+  "source": "Mint Monitor",
+  "publishedAt": "2026-11-04T05:47:00.000Z",
+  "title": "Cross-chain Kelvin Bridge loses $17 million to hacker"
+ },
+ {
+  "id": "h018",
+  "event": "kelvin-hack",
+  "source": "Market Pulse",
+  "publishedAt": "2026-11-04T06:34:00.000Z",
+  "title": "Kelvin Bridge halts transfers after $17M exploit"
+ },
+ {
+  "id": "h019",
+  "event": "sol-etf",
+  "source": "Hash Herald",
+  "publishedAt": "2026-11-05T14:00:00.000Z",
+  "title": "SEC approves first spot Solana ETFs"
+ },
+ {
+  "id": "h020",
+  "event": "sol-etf",
+  "source": "Token Tribune",
+  "publishedAt": "2026-11-05T14:47:00.000Z",
+  "title": "Spot Solana ETFs win SEC approval, trading starts Thursday"
+ },
+ {
+  "id": "h021",
+  "event": "sol-etf",
+  "source": "Node Gazette",
+  "publishedAt": "2026-11-05T15:34:00.000Z",
+  "title": "US regulator clears spot Solana exchange-traded funds"
+ },
+ {
+  "id": "h022",
+  "event": "xrp-etf",
+  "source": "Satoshi Street",
+  "publishedAt": "2026-11-05T15:00:00.000Z",
+  "title": "SEC delays decision on spot XRP ETF to January"
+ },
+ {
+  "id": "h023",
+  "event": "xrp-etf",
+  "source": "Chain Bulletin",
+  "publishedAt": "2026-11-05T15:47:00.000Z",
+  "title": "SEC pushes back XRP ETF decision again"
+ },
+ {
+  "id": "h024",
+  "event": "coinbase-q3",
+  "source": "Block Ledger",
+  "publishedAt": "2026-11-06T21:00:00.000Z",
+  "title": "Coinbase Q3 revenue rises 25% to $1.9 billion"
+ },
+ {
+  "id": "h025",
+  "event": "coinbase-q3",
+  "source": "Mint Monitor",
+  "publishedAt": "2026-11-06T21:47:00.000Z",
+  "title": "Coinbase posts $1.9B third-quarter revenue, shares climb"
+ },
+ {
+  "id": "h026",
+  "event": "coinbase-q3",
+  "source": "Market Pulse",
+  "publishedAt": "2026-11-06T22:34:00.000Z",
+  "title": "Coinbase third-quarter revenue up 25 percent at $1.9bn"
+ },
+ {
+  "id": "h027",
+  "event": "robinhood-q3",
+  "source": "Hash Herald",
+  "publishedAt": "2026-11-06T21:30:00.000Z",
+  "title": "Robinhood Q3 crypto revenue doubles to $640 million"
+ },
+ {
+  "id": "h028",
+  "event": "robinhood-q3",
+  "source": "Token Tribune",
+  "publishedAt": "2026-11-06T22:17:00.000Z",
+  "title": "Robinhood third-quarter crypto revenue hits $640M"
+ },
+ {
+  "id": "h029",
+  "event": "fca-stablecoins",
+  "source": "Node Gazette",
+  "publishedAt": "2026-11-06T09:00:00.000Z",
+  "title": "FCA finalises rules for authorised stablecoin issuers"
+ },
+ {
+  "id": "h030",
+  "event": "fca-stablecoins",
+  "source": "Satoshi Street",
+  "publishedAt": "2026-11-06T09:47:00.000Z",
+  "title": "UK FCA finalizes stablecoin rules for authorized issuers"
+ },
+ {
+  "id": "h031",
+  "event": "fca-stablecoins",
+  "source": "Chain Bulletin",
+  "publishedAt": "2026-11-06T10:34:00.000Z",
+  "title": "Britain FCA publishes final stablecoin regime"
+ },
+ {
+  "id": "h032",
+  "event": "blackrock-buidl",
+  "source": "Block Ledger",
+  "publishedAt": "2026-11-07T12:00:00.000Z",
+  "title": "BlackRock expands tokenized fund BUIDL to Avalanche"
+ },
+ {
+  "id": "h033",
+  "event": "blackrock-buidl",
+  "source": "Mint Monitor",
+  "publishedAt": "2026-11-07T12:47:00.000Z",
+  "title": "BlackRock BUIDL fund goes live on Avalanche"
+ },
+ {
+  "id": "h034",
+  "event": "blackrock-buidl",
+  "source": "Market Pulse",
+  "publishedAt": "2026-11-07T13:34:00.000Z",
+  "title": "BUIDL, BlackRock tokenised treasury fund, launches on Avalanche"
+ },
+ {
+  "id": "h035",
+  "event": "blackrock-ibit",
+  "source": "Hash Herald",
+  "publishedAt": "2026-11-07T22:00:00.000Z",
+  "title": "BlackRock IBIT sees record $1.2 billion daily inflow"
+ },
+ {
+  "id": "h036",
+  "event": "blackrock-ibit",
+  "source": "Token Tribune",
+  "publishedAt": "2026-11-07T22:47:00.000Z",
+  "title": "IBIT pulls in $1.2B in a single day, BlackRock says"
+ },
+ {
+  "id": "h037",
+  "event": "kraken-ipo",
+  "source": "Node Gazette",
+  "publishedAt": "2026-11-09T16:00:00.000Z",
+  "title": "Kraken confidentially files for US IPO"
+ },
+ {
+  "id": "h038",
+  "event": "kraken-ipo",
+  "source": "Satoshi Street",
+  "publishedAt": "2026-11-09T16:47:00.000Z",
+  "title": "Crypto exchange Kraken submits draft IPO paperwork"
+ },
+ {
+  "id": "h039",
+  "event": "kraken-ipo",
+  "source": "Chain Bulletin",
+  "publishedAt": "2026-11-09T17:34:00.000Z",
+  "title": "Kraken files for initial public offering"
+ },
+ {
+  "id": "h040",
+  "event": "kraken-tradearc",
+  "source": "Block Ledger",
+  "publishedAt": "2026-11-10T11:00:00.000Z",
+  "title": "Kraken to acquire futures platform TradeArc for $1.5 billion"
+ },
+ {
+  "id": "h041",
+  "event": "kraken-tradearc",
+  "source": "Mint Monitor",
+  "publishedAt": "2026-11-10T11:47:00.000Z",
+  "title": "Kraken agrees $1.5bn deal for TradeArc"
+ },
+ {
+  "id": "h042",
+  "event": "okx-ice",
+  "source": "Market Pulse",
+  "publishedAt": "2026-11-10T09:00:00.000Z",
+  "title": "OKX and ICE to debut tokenised stock trading on November 23"
+ },
+ {
+  "id": "h043",
+  "event": "okx-ice",
+  "source": "Hash Herald",
+  "publishedAt": "2026-11-10T09:47:00.000Z",
+  "title": "OKX, ICE set November 23 launch for tokenized stock trading"
+ },
+ {
+  "id": "h044",
+  "event": "btc-120k",
+  "source": "Token Tribune",
+  "publishedAt": "2026-11-11T03:00:00.000Z",
+  "title": "Bitcoin tops $120,000 for the first time"
+ },
+ {
+  "id": "h045",
+  "event": "btc-120k",
+  "source": "Node Gazette",
+  "publishedAt": "2026-11-11T03:47:00.000Z",
+  "title": "BTC breaks above $120K to set new all-time high"
+ },
+ {
+  "id": "h046",
+  "event": "ftx-repay",
+  "source": "Satoshi Street",
+  "publishedAt": "2026-11-09T10:00:00.000Z",
+  "title": "FTX estate starts third creditor distribution worth $1.6 billion"
+ },
+ {
+  "id": "h047",
+  "event": "ftx-repay",
+  "source": "Chain Bulletin",
+  "publishedAt": "2026-11-09T10:47:00.000Z",
+  "title": "FTX to pay creditors $1.6B in third repayment round"
+ },
+ {
+  "id": "h048",
+  "event": "sui-outage",
+  "source": "Block Ledger",
+  "publishedAt": "2026-11-08T07:00:00.000Z",
+  "title": "Sui network halts for two hours as validators restart"
+ },
+ {
+  "id": "h049",
+  "event": "sui-outage",
+  "source": "Mint Monitor",
+  "publishedAt": "2026-11-08T07:47:00.000Z",
+  "title": "Sui blockchain stalls for two hours before validators push fix"
+ },
+ {
+  "id": "h050",
+  "event": "uniswap-fee",
+  "source": "Market Pulse",
+  "publishedAt": "2026-11-08T18:00:00.000Z",
+  "title": "Uniswap fee switch proposal passes governance vote"
+ },
+ {
+  "id": "h051",
+  "event": "celestia-unlock",
+  "source": "Hash Herald",
+  "publishedAt": "2026-11-09T06:00:00.000Z",
+  "title": "Celestia unlocks $90 million in TIA tokens"
+ }
+]

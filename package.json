@@ -1,0 +1,41 @@
+{
+  "name": "headline-cluster",
+  "version": "0.1.0",
+  "description": "Cluster near-duplicate news headlines into events without an LLM.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "bench": "tsx bench/run.ts"
+  },
+  "keywords": [
+    "news",
+    "headlines",
+    "deduplication",
+    "clustering",
+    "jaccard"
+  ],
+  "author": "Lakshya Mishra",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.3",
+    "vitest": "^5.1.0"
+  }
+}
